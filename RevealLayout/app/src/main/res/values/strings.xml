@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RevealLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="reveal_color">#1b1a1314</color>
+</resources>
